@@ -1,0 +1,3 @@
+#!/bin/bash
+print("\n".join(os.environ))
+
